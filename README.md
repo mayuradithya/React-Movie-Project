@@ -1,3 +1,3 @@
 # React Movie Project
 
-- Movie Website built using ReactJS
+- Cool Movie Website built using ReactJS
